@@ -14,7 +14,7 @@ This contract use Solidity version 0.8.18
    to the amount that is supposed to be burned.
    
 # Description
-The above project is a simple token contract written in Solidity, a programming language used for creating smart contracts on the Ethereum blockchain. The purpose of the contract is to provide a basic implementation for a token named "Meta" with the ability to mint (create) and burn (destroy) tokens.
+This project is a simple token contract written in Solidity, a programming language used for creating smart contracts on the Ethereum blockchain. The purpose of the contract is to provide a basic implementation for a token named "Meta" with the ability to mint (create) and burn (destroy) tokens.
 
 The mint function allows the contract owner to create new tokens and assign them to a specific address. This function is useful in scenarios where new tokens need to be created, such as in an initial coin offering (ICO) or to reward users for certain actions.
 
